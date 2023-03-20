@@ -1,5 +1,5 @@
-# Automate-Router-SMS-Delete_chrome-Extenstion
-
+# Automate-Router-SMS-Delete_chrome-Extenstion 
+## Target Device  B315Bs-936
 ## Problem Statment
 My router recives 400+ SMSs a month, manually i could select 10 at a time, that takes up to 10 minuts, so i had to come up with a solution.
 
